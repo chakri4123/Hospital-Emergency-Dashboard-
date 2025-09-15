@@ -1,5 +1,7 @@
-# Hospital-Emergency-Dashboard-
+# Hospital-Emergency-Dashboard
 ## 🎯 Project Objectives
+Developed an interactive Power BI dashboard to monitor and analyze monthly hospital emergency room performance, enabling data-driven decisions through KPIs like patient admissions, wait times, demographic trends, department referrals, and time-based resource planning.
+
 The primary business requirements for this dashboard are to:
 
 Measure and track the total number of patients visiting the ER daily.
